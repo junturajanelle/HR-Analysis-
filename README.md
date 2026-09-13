@@ -19,3 +19,16 @@ The purpose of this project is to analyze workforce demographics, turnover patte
 
 ## Dashboard
 <img width="1138" height="637" alt="Screenshot 2026-09-12 013712" src="https://github.com/user-attachments/assets/f3530053-16a3-4630-b8aa-3a381b138a45" />
+
+## Key Insights
+- Overall Attrition: The company has an overall turnover rate of 16.3%, with 231 out of 1,417 employees leaving.
+- Department Trends: Operations (84 employees / 36%) and Administration (52 employees / 23%) account for nearly 60% of total attrition.
+- Experience Impact: Turnover peaks dramatically in early-career stages, specifically within the first 1 to 3 years of service.
+- Role & Satisfaction Breakdown: Roles with the highest attrition include Laboratory Technicians (59), Sales Executives (56), and Research Scientists (45). A notable portion of those leaving rated their job satisfaction at the lowest levels (1 and 2).
+- Demographics & Compensation: Males represent 63.2% of attrition. The highest volume of exits occurs in the 6–10 LPA salary tier (73 exits).
+
+## Recommendations
+- Implement Flexible Work Schedules: Since early-tenure staff in operational and technical roles leave at higher rates, offer balanced shifts or hybrid options to reduce burnout.
+- Optimize Operations Workloads: Review shift hours and workload distribution in high-volume departments like Operations to prevent employee fatigue and high turnover.
+- Monitor Overtime & Fatigue: Set clear caps on compulsory overtime, ensuring production targets are met through better resource planning rather than excessive individual working hours.
+- Conduct Workload Audits: Focus on lower-satisfaction job roles (Laboratory Technicians and Research Scientists) to ensure production deadlines are reasonable and working hours are well-supported with adequate resources.
